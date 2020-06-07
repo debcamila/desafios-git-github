@@ -36,7 +36,7 @@ Exemplo: ```git checkout -b deborah_camila```
 Agora abra o arquivo ```Contribuidores.md``` em um editor de texto, adicione seu nome seguindo o exemplo abaixo: 
 
 ```markdown
-#### Nome: [SEU NOME]
+#### Nome: SEU NOME
 - Lugar: Cidade, Estado, País
 - Formação: Curso, período
 - GitHub: [seu nome no GitHub](link do seu GitHub)
