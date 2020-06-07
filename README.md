@@ -42,6 +42,8 @@ Agora abra o arquivo ```Contribuidores.md``` em um editor de texto, adicione seu
 - GitHub: [seu nome no GitHub](link do seu GitHub)
 ```
 
+<img align="right" width="450" src="imagens/git-status.jpeg" alt="git status" />
+
 ## Faça push nas modificações para o GitHub
 Adicione, commite e dê push nas suas modificações
 
@@ -52,9 +54,14 @@ git push origin nome_da_sua_branch
 ```
 
 ## Envie suas modificações para revisão
+
 Se agora você voltar ao seu repositório no GitHub você verá um botão de _Compare & pull request_. Clique nesse botão.
 
+<img style="float: right" src="imagens/pr-title.jpeg" alt="crie o pull request" />
+
 Agora envie seu _pull request_
+
+<img style="float: right" src="imagens/pr.jpeg" alt="envie o pull request" />
 
 Em breve adicionaremos todas as suas modificações dentro da branch _master_ desse projeto. Você vai receber uma notificação no seu e-mail quando as mudanças forem adicionadas.
 
