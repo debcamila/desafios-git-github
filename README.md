@@ -17,6 +17,8 @@ Agora clone o repositório que foi forkado na sua máquina. Vá para sua conta d
 
 Abra o seu terminal e rode o comando ```git clone "url que você copiou"```
 
+<img align="right" width="300" src="imagens/clone-https.jpeg" alt="clone esse repositório" />
+
 Exemplo: ```git clone https://github.com/debcamila/desafios-git-github.git``` 
 
 ## Crie uma nova branch
