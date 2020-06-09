@@ -1,0 +1,14 @@
+Nome: SEU NOME
+Lugar: Cidade, Estado, País
+Formação: Curso, período
+GitHub: [seu nome no GitHub](link do seu GitHub)
+
+Nome: Arthur Aragão
+Lugar: Olinda, Pernambuco, Brasil
+Formação: Ciência da Computação, 7º período
+GitHub: arthur12320
+
+Nome: Luiz Eduardo Tolentino
+Lugar: Recife, Pernambuco, Brasil
+Formação: Ciencia da computaçao , 1 periodo
+GitHub: [tolentino15](https://github.com/tolentino15)
