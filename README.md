@@ -21,6 +21,11 @@ Abra o seu terminal e rode o comando ```git clone "url que você copiou"```
 
 Exemplo: ```git clone https://github.com/debcamila/desafios-git-github.git``` 
 
+## Atualize o repositório
+
+Agora que você clonou o repositório, você tem que se certificar que seu repositório está o mais atualizado possivel, para isso entre no seu terminal e rode o comando: ```git pull origin master```
+
+
 ## Crie uma nova branch
 Vá para o repositório na sua máquina (se você não estiver lá):
 
