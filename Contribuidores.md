@@ -1,8 +1,8 @@
 
-#### Nome: SEU NOME
-- Lugar: Cidade, Estado, País
-- Formação: Curso, período
-- GitHub: [seu nome no GitHub](link do seu GitHub)
+#### Nome: Luiz Eduardo Tolentino de Moraes
+- Lugar: Recife,Pernambuco,Brasil
+- Formação: Ciencia da Computacao, 1 período
+- GitHub: [tolentino15](https://github.com/tolentino15)
 
 #### Nome: Arthur Aragão
 - Lugar: Olinda, Pernambuco, Brasil
