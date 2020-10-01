@@ -3,6 +3,10 @@
 - Formação: Curso, período
 - GitHub: [seu nome no GitHub](link do seu GitHub)
 
+#### Nome: Ingrid Barbosa
+- Lugar: Cabo de Santo Agostinho, PE, Brasil
+- Formação: Ciência da Computação, 7º período
+- GitHub: [IngridCBarbosa](https://github.com/IngridCBarbosa)
 
 #### Nome: Luiz Eduardo Tolentino de Moraes
 - Lugar: Recife,Pernambuco,Brasil
