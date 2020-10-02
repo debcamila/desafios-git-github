@@ -3,6 +3,11 @@
 - Formação: Curso, período
 - GitHub: [seu nome no GitHub](link do seu GitHub)
 
+#### Nome: Lucas Soares
+- Lugar: Jaboatão, PE, Brasil
+- Formação: Ciência da computação, 7º período
+- GitHub: [fbsoares-lu](https://github.com/fbsoares-lu)
+
 #### Nome: Ingrid Barbosa
 - Lugar: Cabo de Santo Agostinho, PE, Brasil
 - Formação: Ciência da Computação, 7º período
