@@ -3,6 +3,11 @@
 - Formação: Curso, período
 - GitHub: [seu nome no GitHub](link do seu GitHub)
 
+#### Nome: Brenan Wanderley
+- Lugar: Recife, Pernambuco, Brasil
+- Formação: Ciência da Computação, 7º período
+- GitHub: [brenanwanderley](https://github.com/brenanwanderley
+
 #### Nome: Lucas Soares
 - Lugar: Jaboatão, PE, Brasil
 - Formação: Ciência da computação, 7º período
