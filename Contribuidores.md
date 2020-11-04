@@ -39,4 +39,9 @@
 - Formação: Ciência da Computação, 1º período
 - GitHub: [aviladiogo](https://github.com/aviladiogo)
 
+#### Nome: Cláudia Ramos
+- Lugar: Olinda,Pernambuco, Brasil
+- Formação: Licenciatura em Computação, 3º período
+- GitHub: [claudia-duda](https://github.com/claudia-duda)
+
 
