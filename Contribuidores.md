@@ -44,4 +44,7 @@
 - Formação: Licenciatura em Computação, 3º período
 - GitHub: [claudia-duda](https://github.com/claudia-duda)
 
-
+#### Nome: Jéssica Carine
+- Lugar: Recife, Pernambuco, Brasil
+- Formação: Produção Publicitária | Administração 2º Período
+- GitHub: [jessicapaivafundaj](https://github.com/jessicapaivafundaj)
