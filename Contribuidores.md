@@ -48,3 +48,8 @@
 - Lugar: Recife, Pernambuco, Brasil
 - Formação: Produção Publicitária | Administração 2º Período
 - GitHub: [jessicapaivafundaj](https://github.com/jessicapaivafundaj)
+
+#### Nome: Juliane Maria
+- Lugar: Recife, Pernambuco, Brasil
+- Formação: Técnica em Manutenção e Suporte em Informática, Concluido
+- GitHub: [JulianeSilva372](https://github.com/JulianeSilva372)
