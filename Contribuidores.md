@@ -53,3 +53,8 @@
 - Lugar: Recife, Pernambuco, Brasil
 - Formação: Técnica em Manutenção e Suporte em Informática, Concluido
 - GitHub: [JulianeSilva372](https://github.com/JulianeSilva372)
+
+#### Nome: Cinthya Oliveira
+- Lugar: Recife, Pernambuco, Brasil
+- Formação: Processos Gerenciais, 3º Período
+- GitHub: [Cinthya-Oliveira](https://github.com/Cinthya-Oliveira)
