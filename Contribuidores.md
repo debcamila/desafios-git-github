@@ -1,7 +1,7 @@
-#### Nome: Matheus Bezerra
-- Lugar: Jaboatão dos Guararapes, Pernambuco, Brasil
-- Formação: Análise e Desenvolvimento de Sistemas, 4
-- GitHub: [matheusbeezerra](https://github.com/matheusbeezerra)
+#### Nome: SEU NOME
+- Lugar: CIDADE, ESTADO, PAIS
+- Formação: SUA FORMAÇÃO, PERÍODO
+- GitHub: [NICKNAME DO SEU GITHUB](LINK DO SEU GITHUB)
 
 #### Nome: Brenan Wanderley
 - Lugar: Recife, Pernambuco, Brasil
@@ -22,6 +22,7 @@
 - Lugar: Recife,Pernambuco,Brasil
 - Formação: Ciencia da Computacao, 1 período
 - GitHub: [tolentino15](https://github.com/tolentino15)
+
 
 #### Nome: Arthur Aragão
 - Lugar: Olinda, Pernambuco, Brasil
@@ -63,3 +64,8 @@
 - Lugar: Recife, Pernambuco, Brasil
 - Formação: Defesa cibernetica, 2º Período
 - GitHub: [moises-gi](https://github.com/moises-gi)
+
+#### Nome: Matheus Bezerra
+- Lugar: Jaboatão dos Guararapes, Pernambuco, Brasil
+- Formação: Análise e Desenvolvimento de Sistemas, 4
+- GitHub: [matheusbeezerra](https://github.com/matheusbeezerra)
