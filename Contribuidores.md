@@ -58,3 +58,8 @@
 - Lugar: Recife, Pernambuco, Brasil
 - Formação: Processos Gerenciais, 3º Período
 - GitHub: [Cinthya-Oliveira](https://github.com/Cinthya-Oliveira)
+
+#### Nome: Moises silva
+- Lugar: Recife, Pernambuco, Brasil
+- Formação: Defesa cibernetica, 2º Período
+- GitHub: [moises-gi](https://github.com/moises-gi)
