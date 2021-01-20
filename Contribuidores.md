@@ -1,7 +1,7 @@
-#### Nome: SEU NOME
-- Lugar: Cidade, Estado, País
-- Formação: Curso, período
-- GitHub: [seu nome no GitHub](link do seu GitHub)
+#### Nome: Matheus Bezerra
+- Lugar: Jaboatão dos Guararapes, Pernambuco, Brasil
+- Formação: Análise e Desenvolvimento de Sistemas, 4
+- GitHub: [matheusbeezerra](https://github.com/matheusbeezerra)
 
 #### Nome: Brenan Wanderley
 - Lugar: Recife, Pernambuco, Brasil
