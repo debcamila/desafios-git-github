@@ -6,7 +6,7 @@
 #### Nome: Brenan Wanderley
 - Lugar: Recife, Pernambuco, Brasil
 - Formação: Ciência da Computação, 7º período
-- GitHub: [brenanwanderley](https://github.com/brenanwanderley
+- GitHub: [brenanwanderley](https://github.com/brenanwanderley)
 
 #### Nome: Lucas Soares
 - Lugar: Jaboatão, PE, Brasil
